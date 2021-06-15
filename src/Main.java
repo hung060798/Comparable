@@ -12,11 +12,11 @@ public class Main  {
             System.out.println(cir);
         }
 
-//        Arrays.sort(circles);
-//
-//        System.out.println("after-sorted:");
-//        for(ComparableCircle cir: circles){
-//            System.out.println(cir);
-//        }
+        Arrays.sort(circles);
+
+        System.out.println("after-sorted:");
+        for(ComparableCircle cir: circles){
+            System.out.println(cir);
+        }
     }
 }

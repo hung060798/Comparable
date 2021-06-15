@@ -1,6 +1,6 @@
 //import javafx.scene.shape.Circle;
 
-public class ComparableCircle extends Cicrle {
+public class ComparableCircle extends Cicrle implements Comparable<ComparableCircle> {
 
     public ComparableCircle(){
     }
